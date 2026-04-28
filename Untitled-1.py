@@ -1,1 +1,2 @@
-print "Hola Mundoq"
+print ("Hola Mundo")
+print ("Adios")
